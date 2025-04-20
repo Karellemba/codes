@@ -30,11 +30,7 @@ while True:
             print("Saate teha ühepajatoitu.")
         else:
             print("Võib-olla ei saa päris ühepajatoitu, aga midagi ikka!")
-
-  pomm = input("Kas teil on junn ahjus ;) j kuna miisu tahab sind hehhee? (jah/ei): ")
-    if pomm == "ei":
-        print("anna musi tissi peale estlib.")
-
+    
     uuesti = input("Kas soovite uuesti kokandada?  (jah/ei): ")
     if uuesti != "jah":
         break
